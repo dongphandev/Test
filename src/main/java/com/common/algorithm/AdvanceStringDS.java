@@ -3,17 +3,7 @@ package com.common.algorithm;
 import java.util.*;
 public class AdvanceStringDS {
 	
-	
-	
-<<<<<<< HEAD
-=======
-	
-	
-	
-	
-	
-	
->>>>>>> refs/heads/master
+
 	public static int[] suffixArray(CharSequence S) {
 		int n = S.length();
 		Integer[] order = new Integer[n];
