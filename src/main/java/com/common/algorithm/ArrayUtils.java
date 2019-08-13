@@ -1,5 +1,14 @@
 package com.common.algorithm;
 
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+import java.util.Random;
+import java.util.TreeMap;
+import java.util.TreeSet;
+
 public class ArrayUtils {
 
 	public static int count(int[] a) {
@@ -31,6 +40,7 @@ public class ArrayUtils {
 
 		int[] a = new int[] { 1, 3, 4, 2, 5 };
 		System.out.print(count(a));
+		
 		
 	}
 }
